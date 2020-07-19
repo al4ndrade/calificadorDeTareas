@@ -1,2 +1,2 @@
 # calificadorDeTareas
-Calificador de Tareas o Examenes en Python
+Código de mi video de youtube Calificador de Tareas Automático con Python.
